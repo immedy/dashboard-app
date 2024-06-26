@@ -93,7 +93,7 @@
                         </div>
                     </div>
                   </a>
-                  <a href="http://192.168.10.195/apps/SIMpel">
+                  <a href="http://192.168.10.195/apps/SIMpel" target="_blank">
                     <div class="secondary rounded-3 p-4 my-3">
                         <div class="d-flex align-items-center">
                             <svg xmlns="http://www.w3.org/2000/svg" width="60px" height="60px">
