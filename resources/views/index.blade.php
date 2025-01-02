@@ -108,7 +108,7 @@
                   </a>                    
                 </div>
                 <div class="col-md-4">
-                  <a href="http://192.168.10.167:8086/login" target="_blank">
+                  <a href="http://192.168.10.52" target="_blank">
                     <div class="tertiary rounded-3 p-4 my-3">
                         <div class="d-flex align-items-center">
                             <svg xmlns="http://www.w3.org/2000/svg" width="60px" height="60px">
@@ -116,7 +116,7 @@
                             </svg>
                             <div class="ps-4">
                                 <p class="category-paragraph fw-bold text-uppercase mb-1">SISTEM ABSENSI</p>
-                                <p class="category-paragraph m-0">http://192.168.10.167:8086/login</p>
+                                <p class="category-paragraph m-0">http://192.168.10.52/login</p>
                             </div>
                         </div>
                     </div>
