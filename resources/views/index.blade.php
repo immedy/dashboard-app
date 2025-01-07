@@ -60,7 +60,7 @@
                                 </svg>
                                 <div class="ps-4">
                                     <p class="category-paragraph fw-bold text-uppercase mb-1">SIMRS KESIA</p>
-                                    <p class="category-paragraph m-0">Url : http://192.168.10.180/signin </p>
+                                    <p class="category-paragraph m-0">ip lokal </p>
                                 </div>
                             </div>
                         </div>
@@ -73,7 +73,7 @@
                                 </svg>
                                 <div class="ps-4">
                                     <p class="category-paragraph fw-bold text-uppercase mb-1">SIMRSGOS</p>
-                                    <p class="category-paragraph m-0">http://192.168.10.163/apps/SIMpel</p>
+                                    <p class="category-paragraph m-0">ip lokal</p>
                                 </div>
                             </div>
                         </div>
@@ -88,7 +88,7 @@
                             </svg>
                             <div class="ps-4">
                                 <p class="category-paragraph fw-bold text-uppercase mb-1">SIMPEG</p>
-                                <p class="category-paragraph m-0">http://192.168.10.167:8085/login</p>
+                                <p class="category-paragraph m-0">ip lokal</p>
                             </div>
                         </div>
                     </div>
@@ -101,7 +101,7 @@
                             </svg>
                             <div class="ps-4">
                               <p class="category-paragraph fw-bold text-uppercase mb-1">SIMRSGOS MCU</p>
-                              <p class="category-paragraph m-0">http://192.168.10.195/apps/SIMpel</p>
+                              <p class="category-paragraph m-0">ip lokal</p>
                             </div>
                         </div>
                     </div>
@@ -116,7 +116,7 @@
                             </svg>
                             <div class="ps-4">
                                 <p class="category-paragraph fw-bold text-uppercase mb-1">SISTEM ABSENSI</p>
-                                <p class="category-paragraph m-0">http://192.168.10.52/login</p>
+                                <p class="category-paragraph m-0">ip lokal</p>
                             </div>
                         </div>
                     </div>
@@ -129,7 +129,7 @@
                             </svg>
                             <div class="ps-4">
                                 <p class="category-paragraph fw-bold text-uppercase mb-1">SISTEM AMBULAN</p>
-                                <p class="category-paragraph m-0">http://192.168.10.162/login</p>
+                                <p class="category-paragraph m-0">ip lokal</p>
                             </div>
                         </div>
                     </div>
