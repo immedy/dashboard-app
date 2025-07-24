@@ -121,7 +121,7 @@
                         </div>
                     </div>
                   </a>
-                  <a href="http://192.168.10.162/login" target="_blank">
+                  <a href="http://192.168.10.59/login" target="_blank">
                     <div class="primary rounded-3 p-4 my-3">
                         <div class="d-flex align-items-center">
                             <svg xmlns="http://www.w3.org/2000/svg" width="60px" height="60px">
